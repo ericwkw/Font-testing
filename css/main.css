@@ -310,3 +310,9 @@ body {
 .google {
   font-family: 'Noto Sans', 'Noto Sans SC', sans-serif;
 }
+
+.typekit {
+  font-family: "source-han-sans-simplified-c";
+  font-style: normal;
+  font-weight: 400;
+}
